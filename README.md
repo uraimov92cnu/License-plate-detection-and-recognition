@@ -8,7 +8,7 @@
 ## Dependencies ##
 ```
 $ conda create -n alpr python=3.7  # create environment
-$ git clone https://github.com/AbbosAbdullayev/ALPR  # clone
+$ git clone https://github.com/uraimov92cnu/License-plate-detection-and-recognition.git  # clone
 $ cd ALPR 
 $ pip install -r requirements.txt  # installing dependencies
 ```
@@ -17,8 +17,8 @@ $ pip install -r requirements.txt  # installing dependencies
 $ python main.py --video ('input video file name') --output ('output file name and expected format e.x:output.mp4')
 ```
 ## Testing ##
-![](run2.gif)
-![](night-test.gif)
+![](output_car_2.mp4)
+![](output_car_3.mp4)
 ## Reference ##
 1.https://github.com/KavenLee/wpod_ocr
 
