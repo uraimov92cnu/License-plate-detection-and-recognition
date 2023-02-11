@@ -18,7 +18,7 @@ $ python main.py --video ('input video file name') --output ('output file name a
 ```
 ## Testing ##
 ![](output_car_2.mp4)
-![](output_car_3.mp4)
+![](output_car_3.gif)
 ## Reference ##
 1.https://github.com/KavenLee/wpod_ocr
 
