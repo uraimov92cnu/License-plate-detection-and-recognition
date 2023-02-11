@@ -16,10 +16,13 @@ $ pip install -r requirements.txt  # installing dependencies
 ```
 $ python main.py --video ('input video file name') --output ('output file name and expected format e.x:output.mp4')
 ```
-## Testing ##
+## Test result_1 ##
 ![](output_car_2.gif)
-and
+
+## Test result_2 ##
 ![](output_car_3.gif)
+
+
 ## Reference ##
 1.https://github.com/KavenLee/wpod_ocr
 
