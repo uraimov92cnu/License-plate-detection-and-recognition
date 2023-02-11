@@ -22,6 +22,8 @@ $ python main.py --video ('input video file name') --output ('output file name a
 ## Test result_2 ##
 ![](output_car_3.gif)
 
+video by author
+
 
 ## Reference ##
 1.https://github.com/KavenLee/wpod_ocr
